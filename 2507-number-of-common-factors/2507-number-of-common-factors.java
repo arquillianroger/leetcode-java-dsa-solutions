@@ -1,7 +1,6 @@
 class Solution {
     public int commonFactors(int a, int b) {
-        byte loopRuns = 0;
-        loopRuns = (byte) Math.sqrt(Math.max(a, b));
+        byte loopRuns = (byte) Math.sqrt(Math.max(a, b));
         int count = 0;
         for(byte i = 1; i <= loopRuns; i++)
         {
