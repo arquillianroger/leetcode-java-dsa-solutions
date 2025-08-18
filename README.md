@@ -6,6 +6,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0202-happy-number) |
 | [2507-number-of-common-factors](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 |  |
@@ -15,4 +16,12 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2507-number-of-common-factors) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
