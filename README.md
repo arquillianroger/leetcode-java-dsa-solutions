@@ -7,6 +7,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2507-number-of-common-factors) |
 ## Enumeration
@@ -16,6 +17,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2507-number-of-common-factors) |
 ## Hash Table
@@ -26,4 +28,8 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
