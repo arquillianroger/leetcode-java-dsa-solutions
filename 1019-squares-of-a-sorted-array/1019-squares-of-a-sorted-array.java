@@ -1,5 +1,14 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
+        /*Brute Force Approach : First, squaring the elements then, sorting the array which will take O(nlogn)
+        int[] res = new int[nums.length];
+        for(int i = 0; i < nums.length; i++) {
+            res[i] = nums[i] * nums[i];
+        }
+        Arrays.sort(res);
+        return res;
+        */
+        //Two Pointers Approach : O(n)
         int i = 0;
         int j = nums.length - 1;
         int k = j;
