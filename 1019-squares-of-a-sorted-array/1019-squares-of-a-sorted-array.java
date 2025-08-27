@@ -1,6 +1,7 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
         /*Brute Force Approach : First, squaring the elements then, sorting the array which will take O(nlogn)
+        Space Complexity :O(n)
         int[] res = new int[nums.length];
         for(int i = 0; i < nums.length; i++) {
             res[i] = nums[i] * nums[i];
@@ -8,7 +9,8 @@ class Solution {
         Arrays.sort(res);
         return res;
         */
-        //Two Pointers Approach : O(n)
+        //Two Pointers Approach 
+        //Both Time and Space Complexity :O(n)
         int i = 0;
         int j = nums.length - 1;
         int k = j;
