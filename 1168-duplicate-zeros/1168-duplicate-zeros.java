@@ -17,7 +17,7 @@ class Solution {
             arr[i] = temp[i];
         }
         */
-        // Using O(n) Space
+        // Using O(1) Space
         int zerosToDuplicate = 0;
         int n = arr.length - 1;
         for (int i = 0; i <= n - zerosToDuplicate; i++) {
