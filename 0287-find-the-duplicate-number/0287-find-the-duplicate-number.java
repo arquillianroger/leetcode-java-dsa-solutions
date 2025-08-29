@@ -20,7 +20,8 @@ Think of the array as a linked list where each index points to the value at that
             fast = nums[nums[fast]];
         }while(slow != fast);
 
-        //Phase 2 : Now, both  pointers have met, initialize any one pointer to start of the array . Now, move both by one step at a time. Where they meet again is the duplicate.
+        //Phase 2 : Now, both  pointers have met, initialize any one pointer to start of the array . Now, move both by one step at a time. 
+        //Where they meet again is the duplicate.
         slow = nums[0];
         while(slow != fast){
             slow = nums[slow];
