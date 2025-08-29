@@ -24,6 +24,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0202-happy-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/1168-duplicate-zeros) |
 ## Sorting
