@@ -39,6 +39,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -55,4 +56,8 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
