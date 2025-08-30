@@ -24,6 +24,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0152-maximum-product-subarray) |
+| [0229-majority-element-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -47,6 +49,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -60,4 +63,8 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0152-maximum-product-subarray) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
