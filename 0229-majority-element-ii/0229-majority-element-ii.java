@@ -20,12 +20,12 @@ class Solution {
                 list.add(nums[i]);
         }
         */
-        //Sorting Based Approach : O(nlogn)
+        /*Sorting Based Approach : O(nlogn)
         //First ask, if we can modify the order of elements then, only proceed with the approach
         Arrays.sort(nums);
         int count = 1;
         for (int i = 1; i < n; i++) {
-            if (nums[i] == nums[i - 1])
+            if (nums[i] == nums[i - 1]) // Counts Frequency of each group
                 count++;
             else{
                 if (count > n / 3 && !list.contains(nums[i - 1]))
@@ -34,8 +34,10 @@ class Solution {
                 count = 1;
             }
         }
-        if (count > n / 3 && !list.contains(nums[n - 1]))
+        if (count > n / 3 && !list.contains(nums[n - 1])) // checks for the last element, useful when all the elements of array are similar or array size is small
             list.add(nums[n - 1]);
+        */
+        //Optimised Approach : O(n) --Boyer-Moore Voting Algorithm
         return list;
     }
 }
