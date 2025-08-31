@@ -4,10 +4,12 @@ class Solution {
         int n = nums.length;
         /*Brute Force Approach : O(n^2)
         Let’s say a, b, and c all appear more than ⌊n/3⌋ times.
-        That means: freq(a) > n/3, freq(b) > n/3, freq(c) > n/3
+        That means:
+        freq(a) > n/3, freq(b) > n/3, freq(c) > n/3
         If you add them up: freq(a) + freq(b) + freq(c) > n
         But the array only has n elements total!
         Therefore: At most 2 elements can have frequency > ⌊n/3⌋.
+        int loopCounter = 0;
         for(int i = 0; i < n; i++){
             int count = 0;
             for(int j = 0; j < n; j++){
@@ -18,6 +20,22 @@ class Solution {
                 list.add(nums[i]);
         }
         */
+        //Sorting Based Approach : O(nlogn)
+        //First ask, if we can modify the order of elements then, only proceed with the approach
+        Arrays.sort(nums);
+        int count = 1;
+        for (int i = 1; i < n; i++) {
+            if (nums[i] == nums[i - 1])
+                count++;
+            else{
+                if (count > n / 3 && !list.contains(nums[i - 1]))
+                list.add(nums[i - 1]);
+
+                count = 1;
+            }
+        }
+        if (count > n / 3 && !list.contains(nums[n - 1]))
+            list.add(nums[n - 1]);
         return list;
     }
 }
