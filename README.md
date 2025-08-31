@@ -41,6 +41,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -49,6 +50,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
@@ -67,4 +69,12 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0229-majority-element-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
