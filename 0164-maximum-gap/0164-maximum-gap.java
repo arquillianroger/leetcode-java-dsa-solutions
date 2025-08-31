@@ -1,5 +1,6 @@
 class Solution {
     public int maximumGap(int[] nums) {
+        //Brute Force Approach : O(nlogn) --Sorting and Consecutive Difference
         int maxDifference = 0;
         if(nums.length < 2)
         return maxDifference;
@@ -8,6 +9,7 @@ class Solution {
             int difference = nums[i] - nums[i - 1];
             maxDifference = Math.max(difference, maxDifference);
         }
+        //Optimized Approach : O(n) --Bucket Based
         return maxDifference;
     }
 }
