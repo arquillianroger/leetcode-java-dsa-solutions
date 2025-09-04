@@ -8,6 +8,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 | ------- |
 | [0202-happy-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0258-add-digits) |
+| [2050-count-good-numbers](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2507-number-of-common-factors) |
 ## Enumeration
@@ -77,4 +78,8 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0164-maximum-gap) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
