@@ -82,4 +82,8 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2050-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
