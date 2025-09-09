@@ -6,6 +6,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0258-add-digits) |
 | [2050-count-good-numbers](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2050-count-good-numbers) |
@@ -30,6 +31,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -43,6 +45,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
