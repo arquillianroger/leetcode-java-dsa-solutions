@@ -5,18 +5,20 @@ class Solution {
         // When k > n
         k %= n;
 
-        int[] temp = new int[n];
+        // Step 1: Reverse the subarray containing the last k elements of the array.
+        reverse(nums, n - k, n - 1);
 
-        // copy last k elemnents to the front of temp array
-        for(int i = 0; i < k; i++)
-            temp[i] = nums[n - k + i];
-        
-        // copy first n - k elemnents to the last of temp array
-        for(int i = k; i < n; i++)
-            temp[i] = nums[i - k];
+        // Step 2: Reverse the subarray containing the first (n - k) elements of the array.
+        reverse(nums, 0, n - k - 1);
 
-        // Copying the elements of temp in arr to get the final rotated array
-        for(int i = 0; i < n; i++)
-            nums[i] = temp[i];
+        // Step 3: Finally, reverse all the elements of the array.
+        reverse(nums, 0, n - 1);
+    }
+    void reverse(int[] arr, int i, int j){
+        while(i < j){
+            int num = arr[i];
+            arr[i++] = arr[j];
+            arr[j--] = num;
+        }
     }
 }
