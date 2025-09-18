@@ -46,6 +46,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0189-rotate-array) |
@@ -66,6 +67,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Bit Manipulation
