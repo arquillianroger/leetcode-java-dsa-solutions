@@ -54,6 +54,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/1168-duplicate-zeros) |
 ## Sorting
@@ -70,6 +71,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 | [0035-search-insert-position](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
