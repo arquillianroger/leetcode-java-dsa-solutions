@@ -8,6 +8,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 | ------- |
 | [0189-rotate-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0258-add-digits) |
 | [2050-count-good-numbers](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2491-smallest-even-multiple) |
@@ -15,10 +16,12 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/2507-number-of-common-factors) |
@@ -50,6 +53,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 | [0152-maximum-product-subarray](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
