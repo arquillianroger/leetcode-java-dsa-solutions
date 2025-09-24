@@ -1,23 +1,17 @@
 class Solution {
     public int commonFactors(int a, int b) {
-        byte loopRuns = (byte) Math.sqrt(Math.max(a, b));
+        // Euclidean Algortihm
+        while(b != 0){
+            int temp = a;
+            a = b;
+            b = temp % b;
+        }
+        int gcd = a;
         int count = 0;
-        for(byte i = 1; i <= loopRuns; i++)
-        {
-            if(a % i == 0 && b % i == 0)
-            {
-                count += 1;
-                int factor = Math.max(a, b) / i;
-                if(factor == i)
-                continue;
-                else if(a % factor == 0 && b % factor == 0)
-                count += 1;
-            }
-            else
-            {
-                int factor = Math.max(a, b) / i;
-                if(a % factor == 0 && b % factor == 0)
-                count += 1;
+        for(int i = 1; i * i <= gcd; i++){
+            if(gcd % i == 0){
+                count++;
+                if(i != gcd / i)    count++;
             }
         }
         return count;
