@@ -51,6 +51,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 | [0033-search-in-rotated-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -77,6 +78,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 | [0033-search-in-rotated-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
