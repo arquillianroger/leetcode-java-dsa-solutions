@@ -60,6 +60,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 | [0189-rotate-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -83,6 +84,7 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -118,4 +120,9 @@ My Java solutions for LeetCode problems, demonstrating data structures, algorith
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/arquillianroger/leetcode-java-dsa-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
